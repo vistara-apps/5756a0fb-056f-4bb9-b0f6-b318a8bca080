@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LoopLab",
+    "subtitle": "Built with Zara",
+    "description": "LoopLab is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app",
+    "splashImageUrl": "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app/image.png",
+    "tagline": "LoopLab",
+    "screenshotUrls": [
+      "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app/screenshot.png",
+      "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://5756a0fb056f4bb9b0f6b318a8bca080-7qac.vercel.app/api/webhook"
+  }
+}
